@@ -1,0 +1,55 @@
+body{
+    color: red;
+}
+.heading{
+    background-color: deepskyblue; 
+    color: red;
+    max-width: 1870px;
+    font-size: 24px;
+    width:100%;
+    max-width: 1870px;
+    margin:auto;
+    white-space: normal;
+    box-shadow: 8px 8px 2px red;
+}
+.heading:hover{
+    background: red;
+color:deepskyblue;
+}
+.note:hover{
+    background: red;
+color:deepskyblue;
+}
+.note{
+    font-size: 15;
+    color:red;
+}
+
+
+.copy_right_footer {
+    background-color: deepskyblue;
+    position:fixed;
+    color: red;
+    max-width: 1870px;
+    width:100%;
+    bottom:25;
+    line-height: 3;
+    text-align: center;
+    border-radius:5px;
+    margin:auto;
+}
+
+.copy_right_footer:hover{
+background: red;
+color:deepskyblue;
+}
+
+canvas{
+    border:10px ridge red;
+    border-radius: 5px;
+    box-shadow: 8px 8px 2px red;
+}
+body{
+    background: rgb(255, 60, 0);
+    border:25px ridge red;
+}
